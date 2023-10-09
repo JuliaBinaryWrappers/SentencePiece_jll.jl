@@ -1,11 +1,10 @@
 name = "SentencePiece_jll"
 uuid = "0cc836cc-86cb-5b0e-b290-caf6c31794d8"
-version = "0.1.96+0"
+version = "0.1.99+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
 gperftools_jll = "c8ae51e6-ca1b-5cf7-8aa4-ff5973bfb1e4"
-Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
 Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
 Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
 

@@ -1,288 +1,288 @@
 [[SentencePiece]]
 arch = "aarch64"
-git-tree-sha1 = "5bce378beccf5845c7b689623a7546961f30738f"
+git-tree-sha1 = "3ad4c1bf1e128003834a6ec33934d0fd1b5b4fdd"
 os = "macos"
 
     [[SentencePiece.download]]
-    sha256 = "9540e8c1d1aa8d6e4d760c7ea50b8a0c084d309ef73fd1739b0748e00b30ff1c"
-    url = "https://github.com/JuliaBinaryWrappers/SentencePiece_jll.jl/releases/download/SentencePiece-v0.1.96+0/SentencePiece.v0.1.96.aarch64-apple-darwin.tar.gz"
+    sha256 = "bdfb40b6e1002e1269793eb5b6a880193cc515b4437a1a9e690ca2394f2463e4"
+    url = "https://github.com/JuliaBinaryWrappers/SentencePiece_jll.jl/releases/download/SentencePiece-v0.1.99+0/SentencePiece.v0.1.99.aarch64-apple-darwin.tar.gz"
 [[SentencePiece]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "a862518cebcabea6d39c7e31c5b6ae6479d284e1"
+git-tree-sha1 = "5ad0d1dd3975a9625ec2a424fa9b1d45a4b100c2"
 libc = "glibc"
 os = "linux"
 
     [[SentencePiece.download]]
-    sha256 = "025c30fdb5b5d8ae274dd47f385b0407a20e14767b6add27848ef40b072af34d"
-    url = "https://github.com/JuliaBinaryWrappers/SentencePiece_jll.jl/releases/download/SentencePiece-v0.1.96+0/SentencePiece.v0.1.96.aarch64-linux-gnu-cxx03.tar.gz"
+    sha256 = "8d28ae26bbf8c3be57911036663fd65f5a8098112ac492bbe0f3ef22e453343f"
+    url = "https://github.com/JuliaBinaryWrappers/SentencePiece_jll.jl/releases/download/SentencePiece-v0.1.99+0/SentencePiece.v0.1.99.aarch64-linux-gnu-cxx03.tar.gz"
 [[SentencePiece]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "6aa56705b6fbe3f6960e844d826cba6a09a8fac8"
+git-tree-sha1 = "6b0aad72e5a1d8f7233f194bfe9a1e9f12147ade"
 libc = "glibc"
 os = "linux"
 
     [[SentencePiece.download]]
-    sha256 = "7c80b354c4fd8716a37e62414fa223c5c92f0cb8d3bfcae109f006737728ada8"
-    url = "https://github.com/JuliaBinaryWrappers/SentencePiece_jll.jl/releases/download/SentencePiece-v0.1.96+0/SentencePiece.v0.1.96.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "e53c95ea2849ff4b2ed630df5c8ffe63c32ddfa7f7e8d2551b287d9a61787d29"
+    url = "https://github.com/JuliaBinaryWrappers/SentencePiece_jll.jl/releases/download/SentencePiece-v0.1.99+0/SentencePiece.v0.1.99.aarch64-linux-gnu-cxx11.tar.gz"
 [[SentencePiece]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "76b86a756ebf73eed7214e905e38703c5454b881"
+git-tree-sha1 = "335aa93dc6054fd5c9c3f33406119ec0247974e8"
 libc = "musl"
 os = "linux"
 
     [[SentencePiece.download]]
-    sha256 = "27b87ad14e9d49ad1283dfcf6d7d8520a7d787e5b836fb33d6c3a4a4ca229672"
-    url = "https://github.com/JuliaBinaryWrappers/SentencePiece_jll.jl/releases/download/SentencePiece-v0.1.96+0/SentencePiece.v0.1.96.aarch64-linux-musl-cxx03.tar.gz"
+    sha256 = "b5c13af3e9d740da806f410f2d25ae384b81d7c13e9d95cc13c753e78c0a5f5c"
+    url = "https://github.com/JuliaBinaryWrappers/SentencePiece_jll.jl/releases/download/SentencePiece-v0.1.99+0/SentencePiece.v0.1.99.aarch64-linux-musl-cxx03.tar.gz"
 [[SentencePiece]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "0f74caba6b9295c08383588a78292b68fc7f9476"
+git-tree-sha1 = "7a02691c898b63e0ae52216441df3f0d3b2d544d"
 libc = "musl"
 os = "linux"
 
     [[SentencePiece.download]]
-    sha256 = "f35e63b419d6b81b36b4c6bd739e867419348e2ed72f956521d499c5366c50fd"
-    url = "https://github.com/JuliaBinaryWrappers/SentencePiece_jll.jl/releases/download/SentencePiece-v0.1.96+0/SentencePiece.v0.1.96.aarch64-linux-musl-cxx11.tar.gz"
+    sha256 = "2a47929c60df58ea3aac47bb405131f7cfdd48f5570c8504ce48928eff6780a0"
+    url = "https://github.com/JuliaBinaryWrappers/SentencePiece_jll.jl/releases/download/SentencePiece-v0.1.99+0/SentencePiece.v0.1.99.aarch64-linux-musl-cxx11.tar.gz"
 [[SentencePiece]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "d646f5eb1c99ffdd5022b52036977f00bc892ad9"
+git-tree-sha1 = "d0aa9750b1600eda49dfa829e34abd1505346e7c"
 libc = "glibc"
 os = "linux"
 
     [[SentencePiece.download]]
-    sha256 = "d881dcbd13675c1f9adfd4158669e825d365a299adf053c7098cf3acc275c99d"
-    url = "https://github.com/JuliaBinaryWrappers/SentencePiece_jll.jl/releases/download/SentencePiece-v0.1.96+0/SentencePiece.v0.1.96.armv6l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "9ab69a4174b9d1f6469c4624ab95ef0969a112cc25a34e69ca81b22594d099e7"
+    url = "https://github.com/JuliaBinaryWrappers/SentencePiece_jll.jl/releases/download/SentencePiece-v0.1.99+0/SentencePiece.v0.1.99.armv6l-linux-gnueabihf-cxx03.tar.gz"
 [[SentencePiece]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "1154ccff8cdf8890140ef75c86159314656a10f1"
+git-tree-sha1 = "7645a88148d0919000464eb12ad1763ae8cb7db1"
 libc = "glibc"
 os = "linux"
 
     [[SentencePiece.download]]
-    sha256 = "ae878b1ba50dd77800bc736e66b38b73e7b984b56f7f2eb20f384b3d19c65ef1"
-    url = "https://github.com/JuliaBinaryWrappers/SentencePiece_jll.jl/releases/download/SentencePiece-v0.1.96+0/SentencePiece.v0.1.96.armv6l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "16020deded10bd3ae21820fd44bdd523ccd1722675150e144add7d0082a8838a"
+    url = "https://github.com/JuliaBinaryWrappers/SentencePiece_jll.jl/releases/download/SentencePiece-v0.1.99+0/SentencePiece.v0.1.99.armv6l-linux-gnueabihf-cxx11.tar.gz"
 [[SentencePiece]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "a1f37636f964fe7cf3dba5476a2e65391fcea68a"
+git-tree-sha1 = "e5fe352f50446e2fb157e1a4bb2b4d177220cd9b"
 libc = "musl"
 os = "linux"
 
     [[SentencePiece.download]]
-    sha256 = "40a927486c6db79f8d0fa1019134b63611e128ead868ca209278c5063dec487f"
-    url = "https://github.com/JuliaBinaryWrappers/SentencePiece_jll.jl/releases/download/SentencePiece-v0.1.96+0/SentencePiece.v0.1.96.armv6l-linux-musleabihf-cxx03.tar.gz"
+    sha256 = "d3a2b2ba2b1e4ef4f7d28dd9c082dd7a7352818cc1867ff56c535352ae639442"
+    url = "https://github.com/JuliaBinaryWrappers/SentencePiece_jll.jl/releases/download/SentencePiece-v0.1.99+0/SentencePiece.v0.1.99.armv6l-linux-musleabihf-cxx03.tar.gz"
 [[SentencePiece]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "aeb459db191dc201718209f59fec3d44e088dde7"
+git-tree-sha1 = "4f2b6b6936d9c7de72b7a49bf8217ce221852c8a"
 libc = "musl"
 os = "linux"
 
     [[SentencePiece.download]]
-    sha256 = "cf49ed6ff80cb2223bab35181c1e5fb86a909a9bb3e05fbcfd3e912cb123c80e"
-    url = "https://github.com/JuliaBinaryWrappers/SentencePiece_jll.jl/releases/download/SentencePiece-v0.1.96+0/SentencePiece.v0.1.96.armv6l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "c4ce8538f741761d8ad6c1cb13a37a49825bfff7b6b3e89af68ab4ecdb39e837"
+    url = "https://github.com/JuliaBinaryWrappers/SentencePiece_jll.jl/releases/download/SentencePiece-v0.1.99+0/SentencePiece.v0.1.99.armv6l-linux-musleabihf-cxx11.tar.gz"
 [[SentencePiece]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "b1dd7957e8ac9bad9b4959bca4c477231dd2e55d"
+git-tree-sha1 = "ccb3d30c86cc619c92e413fc7f21851efff7633e"
 libc = "glibc"
 os = "linux"
 
     [[SentencePiece.download]]
-    sha256 = "3f7fa399bdb500754833673ba22c33116d1c9ccf863e7fbf684c2ac66f37e831"
-    url = "https://github.com/JuliaBinaryWrappers/SentencePiece_jll.jl/releases/download/SentencePiece-v0.1.96+0/SentencePiece.v0.1.96.armv7l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "02444d895455903593e044d92766ae549e0cee8c1ec741e1f62b9a137d6c4d66"
+    url = "https://github.com/JuliaBinaryWrappers/SentencePiece_jll.jl/releases/download/SentencePiece-v0.1.99+0/SentencePiece.v0.1.99.armv7l-linux-gnueabihf-cxx03.tar.gz"
 [[SentencePiece]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "35b2145d2afa72d75867f175635e19cbdf4b7ad6"
+git-tree-sha1 = "6e4aa646d6440ee2ad4869419bd649f9ad3075e3"
 libc = "glibc"
 os = "linux"
 
     [[SentencePiece.download]]
-    sha256 = "dcd11bd4a7df993aca5b27af56957189ba908ec61545a2212472784442bb5811"
-    url = "https://github.com/JuliaBinaryWrappers/SentencePiece_jll.jl/releases/download/SentencePiece-v0.1.96+0/SentencePiece.v0.1.96.armv7l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "35f3d6af18ccd5cd6f7c79705242f8f3650d6dc15aa645b2b3d94ee71bd58f7f"
+    url = "https://github.com/JuliaBinaryWrappers/SentencePiece_jll.jl/releases/download/SentencePiece-v0.1.99+0/SentencePiece.v0.1.99.armv7l-linux-gnueabihf-cxx11.tar.gz"
 [[SentencePiece]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "e71861ab800a69b8f13ba1d9de2782ccd356f862"
+git-tree-sha1 = "faaff52eabf091fc87da89c291e7d462b34108d4"
 libc = "musl"
 os = "linux"
 
     [[SentencePiece.download]]
-    sha256 = "576d9fb41a9a9c2e8bcb288fb5d10a4ecd05b12e54c8413d69ae49ecfb45dc16"
-    url = "https://github.com/JuliaBinaryWrappers/SentencePiece_jll.jl/releases/download/SentencePiece-v0.1.96+0/SentencePiece.v0.1.96.armv7l-linux-musleabihf-cxx03.tar.gz"
+    sha256 = "bb5255103a556b0fc36943d089c609f5e2e1d49da40bcdd8fbcd7dc4201e0c2e"
+    url = "https://github.com/JuliaBinaryWrappers/SentencePiece_jll.jl/releases/download/SentencePiece-v0.1.99+0/SentencePiece.v0.1.99.armv7l-linux-musleabihf-cxx03.tar.gz"
 [[SentencePiece]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "a59adb4fd603f32b1d7c039626f1f9e69c259225"
+git-tree-sha1 = "44144213e3d015d91666e115029c0a09c4791da0"
 libc = "musl"
 os = "linux"
 
     [[SentencePiece.download]]
-    sha256 = "7cb0aa710c3d48d625c0166149b4d4ecbee60f58088051565c38bde191742a2a"
-    url = "https://github.com/JuliaBinaryWrappers/SentencePiece_jll.jl/releases/download/SentencePiece-v0.1.96+0/SentencePiece.v0.1.96.armv7l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "e8dc544050055144cb3164f46d19d77f85d2912072f753d919564eefca06f11a"
+    url = "https://github.com/JuliaBinaryWrappers/SentencePiece_jll.jl/releases/download/SentencePiece-v0.1.99+0/SentencePiece.v0.1.99.armv7l-linux-musleabihf-cxx11.tar.gz"
 [[SentencePiece]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "becd7502d8470db772a3aa8ff7fcd64faa8c42f1"
+git-tree-sha1 = "527cea65f131b83d0020afe7614bc47745f237d0"
 libc = "glibc"
 os = "linux"
 
     [[SentencePiece.download]]
-    sha256 = "e4666195baf64a64f098d35f0844b9679d5910393cd14ef3d7ae37b5ff7c0e14"
-    url = "https://github.com/JuliaBinaryWrappers/SentencePiece_jll.jl/releases/download/SentencePiece-v0.1.96+0/SentencePiece.v0.1.96.i686-linux-gnu-cxx03.tar.gz"
+    sha256 = "ce07e5bca4f11a3cef7fa0b657fea89d1151ecf4062d07446bc473e80cfc9c39"
+    url = "https://github.com/JuliaBinaryWrappers/SentencePiece_jll.jl/releases/download/SentencePiece-v0.1.99+0/SentencePiece.v0.1.99.i686-linux-gnu-cxx03.tar.gz"
 [[SentencePiece]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "aa2f40751f818807db55d0c59f8e761070bfa379"
+git-tree-sha1 = "f26e259f9b81f7c9c716cd604d2da8de08126f95"
 libc = "glibc"
 os = "linux"
 
     [[SentencePiece.download]]
-    sha256 = "6656dfcdb0d336f374b12dcccf2671ea0ac493c97220fa9ebeaa48300e9ed4a6"
-    url = "https://github.com/JuliaBinaryWrappers/SentencePiece_jll.jl/releases/download/SentencePiece-v0.1.96+0/SentencePiece.v0.1.96.i686-linux-gnu-cxx11.tar.gz"
+    sha256 = "6a539f35d8e74f3c0c050ee8c8978ee8afe96be29abd48a2b90e2e19a6689155"
+    url = "https://github.com/JuliaBinaryWrappers/SentencePiece_jll.jl/releases/download/SentencePiece-v0.1.99+0/SentencePiece.v0.1.99.i686-linux-gnu-cxx11.tar.gz"
 [[SentencePiece]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "43e864a497402e9973fb3b29500a8faf3caf250c"
+git-tree-sha1 = "511db2e8305c9092607e956a3960d2871ce62d5f"
 libc = "musl"
 os = "linux"
 
     [[SentencePiece.download]]
-    sha256 = "aa6642f91803e29611f7c48beb8280f6a5a40bafb4aa0802a33559c1f15479e2"
-    url = "https://github.com/JuliaBinaryWrappers/SentencePiece_jll.jl/releases/download/SentencePiece-v0.1.96+0/SentencePiece.v0.1.96.i686-linux-musl-cxx03.tar.gz"
+    sha256 = "570e84b6f61e5b7e929050acac24b35cf307055f1002604889ffef6af9d73b57"
+    url = "https://github.com/JuliaBinaryWrappers/SentencePiece_jll.jl/releases/download/SentencePiece-v0.1.99+0/SentencePiece.v0.1.99.i686-linux-musl-cxx03.tar.gz"
 [[SentencePiece]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "a1b9cb5ede610f18c2bc32c73c2b43f6d9a1b11b"
+git-tree-sha1 = "7ea7fb3350fc28ed8ac109bc06d7bd362c8f5dd6"
 libc = "musl"
 os = "linux"
 
     [[SentencePiece.download]]
-    sha256 = "5ab3170c73ca4faa91d70bfac699652ffbfe81b480833e0b3236b68f1a13d37d"
-    url = "https://github.com/JuliaBinaryWrappers/SentencePiece_jll.jl/releases/download/SentencePiece-v0.1.96+0/SentencePiece.v0.1.96.i686-linux-musl-cxx11.tar.gz"
+    sha256 = "8ba4377a4815a0ce48787283af3822830cd69ef5f84f261548b7c392acbb6bda"
+    url = "https://github.com/JuliaBinaryWrappers/SentencePiece_jll.jl/releases/download/SentencePiece-v0.1.99+0/SentencePiece.v0.1.99.i686-linux-musl-cxx11.tar.gz"
 [[SentencePiece]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "83b134ae0bbe34ff129dbd9ba4618fc24837d2d9"
+git-tree-sha1 = "2a99da6421ce9d8a9d1ab8467669bde3be1b0317"
 os = "windows"
 
     [[SentencePiece.download]]
-    sha256 = "07288dec4a078c7117c6b21987064f061a2f2b5006f5c981f6aa05a6f6725caa"
-    url = "https://github.com/JuliaBinaryWrappers/SentencePiece_jll.jl/releases/download/SentencePiece-v0.1.96+0/SentencePiece.v0.1.96.i686-w64-mingw32-cxx03.tar.gz"
+    sha256 = "d829256289d438b22024eb66bd02129a914a39c6c52122dfe36bd8f2924ade0c"
+    url = "https://github.com/JuliaBinaryWrappers/SentencePiece_jll.jl/releases/download/SentencePiece-v0.1.99+0/SentencePiece.v0.1.99.i686-w64-mingw32-cxx03.tar.gz"
 [[SentencePiece]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "2e40816f52c8d0d37614011acef57770eab07a70"
+git-tree-sha1 = "6ccde9997b0eb12770769b0df749e6ba943ffe7b"
 os = "windows"
 
     [[SentencePiece.download]]
-    sha256 = "e24f8df8ac67931a646a22d5a70b69e572a363a9588412a20e5f6b3a2f3c6b59"
-    url = "https://github.com/JuliaBinaryWrappers/SentencePiece_jll.jl/releases/download/SentencePiece-v0.1.96+0/SentencePiece.v0.1.96.i686-w64-mingw32-cxx11.tar.gz"
+    sha256 = "666588c9d2f845df87df0dea63c21655b506eceeaf76ed268430e5c1d6878307"
+    url = "https://github.com/JuliaBinaryWrappers/SentencePiece_jll.jl/releases/download/SentencePiece-v0.1.99+0/SentencePiece.v0.1.99.i686-w64-mingw32-cxx11.tar.gz"
 [[SentencePiece]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "3001c141cf55bb26d843a8bb648cf0f6954430a9"
+git-tree-sha1 = "aefd46cb764c99a0fb12ac6f5d75ec06e5694830"
 libc = "glibc"
 os = "linux"
 
     [[SentencePiece.download]]
-    sha256 = "9d32a0d8bbcac707d0d06bcda4d66026fd16e1c1d438b87bf0f096abc05e9a9b"
-    url = "https://github.com/JuliaBinaryWrappers/SentencePiece_jll.jl/releases/download/SentencePiece-v0.1.96+0/SentencePiece.v0.1.96.powerpc64le-linux-gnu-cxx03.tar.gz"
+    sha256 = "8a9029cb7bc136b82d66245c5a2f6ef898a08727cce295242bc4af50363061a1"
+    url = "https://github.com/JuliaBinaryWrappers/SentencePiece_jll.jl/releases/download/SentencePiece-v0.1.99+0/SentencePiece.v0.1.99.powerpc64le-linux-gnu-cxx03.tar.gz"
 [[SentencePiece]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "052436f1c24a3c53b50fcc74d740302a24ac9cef"
+git-tree-sha1 = "472387e761b21f3d2bc8661a0173362ce7c599a0"
 libc = "glibc"
 os = "linux"
 
     [[SentencePiece.download]]
-    sha256 = "a02e9b48d88dfd76cc4e2ef629346574e9993e7b510cea42646baf338a664e3f"
-    url = "https://github.com/JuliaBinaryWrappers/SentencePiece_jll.jl/releases/download/SentencePiece-v0.1.96+0/SentencePiece.v0.1.96.powerpc64le-linux-gnu-cxx11.tar.gz"
+    sha256 = "367c8fa3ad3936e2d8777608d63d212bb415924078233d4a357063b561d972dd"
+    url = "https://github.com/JuliaBinaryWrappers/SentencePiece_jll.jl/releases/download/SentencePiece-v0.1.99+0/SentencePiece.v0.1.99.powerpc64le-linux-gnu-cxx11.tar.gz"
 [[SentencePiece]]
 arch = "x86_64"
-git-tree-sha1 = "db04b2f5c0d3d2629d1a54918d86f123c2a5dfb7"
+git-tree-sha1 = "0595c0517da75f9e3ffb1f312a3418d4cf24c9e5"
 os = "macos"
 
     [[SentencePiece.download]]
-    sha256 = "02d4a45944dba91a9c8aa63eabf4097048782676fb52b1a8512eb4335274e32b"
-    url = "https://github.com/JuliaBinaryWrappers/SentencePiece_jll.jl/releases/download/SentencePiece-v0.1.96+0/SentencePiece.v0.1.96.x86_64-apple-darwin.tar.gz"
+    sha256 = "2db5df7be42fa172d1767c9e36674a3d54cba6c6da3890d9b50096c192936b50"
+    url = "https://github.com/JuliaBinaryWrappers/SentencePiece_jll.jl/releases/download/SentencePiece-v0.1.99+0/SentencePiece.v0.1.99.x86_64-apple-darwin.tar.gz"
 [[SentencePiece]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "ebb8427d995a030fbd89dfcf9f49683e522c6379"
+git-tree-sha1 = "c4b0a6358d39f65071f39704b26e5218f4c0d5f2"
 libc = "glibc"
 os = "linux"
 
     [[SentencePiece.download]]
-    sha256 = "9f0f15f1aec808537590d1c0e55215e5e303195eceb0f00544875258a03efde1"
-    url = "https://github.com/JuliaBinaryWrappers/SentencePiece_jll.jl/releases/download/SentencePiece-v0.1.96+0/SentencePiece.v0.1.96.x86_64-linux-gnu-cxx03.tar.gz"
+    sha256 = "fc945ed11f0f51a974efbfc6e15041f3d35eadcbd6c611bffafaaf07c4b19202"
+    url = "https://github.com/JuliaBinaryWrappers/SentencePiece_jll.jl/releases/download/SentencePiece-v0.1.99+0/SentencePiece.v0.1.99.x86_64-linux-gnu-cxx03.tar.gz"
 [[SentencePiece]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "2bcb83c39aaa0ca3f81e634c5354540d7f961ac6"
+git-tree-sha1 = "db8ef70e99179f9cbc993f13765929144ed6b5a4"
 libc = "glibc"
 os = "linux"
 
     [[SentencePiece.download]]
-    sha256 = "da0afa47f55ad6ac52f21c0a0cc275fdf19836af394706d1f52f6a76619da306"
-    url = "https://github.com/JuliaBinaryWrappers/SentencePiece_jll.jl/releases/download/SentencePiece-v0.1.96+0/SentencePiece.v0.1.96.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "c7ce37a46de06fccf0728c61cd9ef4f3ab16e54bdaf68a8934fbcb93caf0121d"
+    url = "https://github.com/JuliaBinaryWrappers/SentencePiece_jll.jl/releases/download/SentencePiece-v0.1.99+0/SentencePiece.v0.1.99.x86_64-linux-gnu-cxx11.tar.gz"
 [[SentencePiece]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "2add4c5ded95160afaa6e8a4b67487124807ac72"
+git-tree-sha1 = "158a21e5b6c5a8f7d41de88897f5304a113fbc0f"
 libc = "musl"
 os = "linux"
 
     [[SentencePiece.download]]
-    sha256 = "7ae98317c40b12f6044d51e36e95197506a0969ae9512481bd5191cbfdd49bdf"
-    url = "https://github.com/JuliaBinaryWrappers/SentencePiece_jll.jl/releases/download/SentencePiece-v0.1.96+0/SentencePiece.v0.1.96.x86_64-linux-musl-cxx03.tar.gz"
+    sha256 = "f02114cf8d4a1a6060554d89128d1402b5ce1d21b87a383b25d6b7321d554ace"
+    url = "https://github.com/JuliaBinaryWrappers/SentencePiece_jll.jl/releases/download/SentencePiece-v0.1.99+0/SentencePiece.v0.1.99.x86_64-linux-musl-cxx03.tar.gz"
 [[SentencePiece]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "29e8736cb5819afb4e1724f8cc59e7867b0daa2d"
+git-tree-sha1 = "9085cb49dc1255051c3555b539fb607063938b82"
 libc = "musl"
 os = "linux"
 
     [[SentencePiece.download]]
-    sha256 = "22db53bdd3556f0ed523127baefcfefad59d5b6fe19869a8c4c03e173258d045"
-    url = "https://github.com/JuliaBinaryWrappers/SentencePiece_jll.jl/releases/download/SentencePiece-v0.1.96+0/SentencePiece.v0.1.96.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "20f08124ebbecb31c75c44865baa251d71431174644f2739c3dd9e9a84d0d419"
+    url = "https://github.com/JuliaBinaryWrappers/SentencePiece_jll.jl/releases/download/SentencePiece-v0.1.99+0/SentencePiece.v0.1.99.x86_64-linux-musl-cxx11.tar.gz"
 [[SentencePiece]]
 arch = "x86_64"
-git-tree-sha1 = "9aa899b6c49415d5ab53901faa28672c082a66e2"
+git-tree-sha1 = "bd01d2fe9e3644ea04c3346a33f0c51e16bfa36d"
 os = "freebsd"
 
     [[SentencePiece.download]]
-    sha256 = "f0f76e67e8fe6cef1c7d9c6c10549bc284ce30c77e076ce6c6fc60a072cb4a98"
-    url = "https://github.com/JuliaBinaryWrappers/SentencePiece_jll.jl/releases/download/SentencePiece-v0.1.96+0/SentencePiece.v0.1.96.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "c2618fb9e2e95e77e6f079e8091ff75583ef852c6c774dbcb11c65ebcb534ead"
+    url = "https://github.com/JuliaBinaryWrappers/SentencePiece_jll.jl/releases/download/SentencePiece-v0.1.99+0/SentencePiece.v0.1.99.x86_64-unknown-freebsd.tar.gz"
 [[SentencePiece]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "a1cc353f2799dbca3a6371e76f588e3101e61f7f"
+git-tree-sha1 = "fd0007be86924019eabe2b00005dd66efd23eeb5"
 os = "windows"
 
     [[SentencePiece.download]]
-    sha256 = "6c1b8fbd0491583ab5edeab2ba6416c7ec56e48463d3fa4b0a8d2f0218dafa90"
-    url = "https://github.com/JuliaBinaryWrappers/SentencePiece_jll.jl/releases/download/SentencePiece-v0.1.96+0/SentencePiece.v0.1.96.x86_64-w64-mingw32-cxx03.tar.gz"
+    sha256 = "a4ec02554275fc39ea73f42e2faa4d8b7189756f439254c8625d9fd3923aa2ce"
+    url = "https://github.com/JuliaBinaryWrappers/SentencePiece_jll.jl/releases/download/SentencePiece-v0.1.99+0/SentencePiece.v0.1.99.x86_64-w64-mingw32-cxx03.tar.gz"
 [[SentencePiece]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "79650b2168e4144aea285160ccb99c11d62e0438"
+git-tree-sha1 = "be7d0b54ef94b9e0d8504da8d85af48dfe90e0b6"
 os = "windows"
 
     [[SentencePiece.download]]
-    sha256 = "d68d0f793ed564f9fb5d8bbe48ed86612f83a6acb0f01a94f0299ce00143405e"
-    url = "https://github.com/JuliaBinaryWrappers/SentencePiece_jll.jl/releases/download/SentencePiece-v0.1.96+0/SentencePiece.v0.1.96.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "d5a70120876a6c8211b0355610829bc2e1f556d1310b02204f81e759bb46d73d"
+    url = "https://github.com/JuliaBinaryWrappers/SentencePiece_jll.jl/releases/download/SentencePiece-v0.1.99+0/SentencePiece.v0.1.99.x86_64-w64-mingw32-cxx11.tar.gz"
